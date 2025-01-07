@@ -26,6 +26,8 @@
   - git init -> allows a project to use git commands
   - git status -> shows what has been added/changed/deleted since the last commit
   - git add [file names] -> moves the files/folders from the working directory area to the staging area
+  - git commit -> takes everything from the staging area and makes it permanent
+    - -m "message" -> shortcut for writing a message on your commit
 
 - 3 stages
   - working directory (red)
