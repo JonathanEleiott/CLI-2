@@ -57,3 +57,12 @@
 - git checkout -> move to a new branch
   - -b -> create a new branch
   - [branch name] -> name of feature you're adding
+- Steps
+  - make a feature branch
+  - make changes in code
+  - push up the feature branch to GitHub
+  - make a pull request in GitHub
+  - code review the changes
+  - if they're good, merge feature branch with main
+  - in VS Code go to the main branch (git checkout main)
+  - pull the latest changes from GitHub (git pull nickname main)
