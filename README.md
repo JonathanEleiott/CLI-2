@@ -54,3 +54,6 @@
 
 # Feature Branches
 
+- git checkout -> move to a new branch
+  - -b -> create a new branch
+  - [branch name] -> name of feature you're adding
